@@ -17,10 +17,11 @@ Tensorflow use cases?
 
 My previous project using Tensorflow:
 Utilizing Keras (A high level API built on TensorFlow) to build image classification model 
-Google Bangkit 2020 Team Project : https://github.com/rizvand/bangkit-final-project 
+Google Bangkit 2020 Team Project : 
+- https://github.com/rizvand/bangkit-final-project 
 
 Course with hands-on: 
-https://www.coursera.org/professional-certificates/tensorflow-in-practice#about
+- https://www.coursera.org/professional-certificates/tensorflow-in-practice#about
 
 Differentiate yourself by taking Tensorflow Developer Certificate:
-https://www.tensorflow.org/certificate
+- https://www.tensorflow.org/certificate
